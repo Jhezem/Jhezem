@@ -8,7 +8,7 @@
       C# :D
       
 - 👀 I’m interested in Web, mobile Development, and I love cyber security.
-- 🌱 I’m currently learning react and node js
+- 🌱 I’m currently learning rust :D
 - 📫 How to reach me:
 
 Instagram: @jairo_a.ka.jhezem </br>
